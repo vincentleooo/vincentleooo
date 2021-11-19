@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello world!
+
+I am Vincent! To know more about me, you can take a look at my about page (https://vinleonardo.com/about)[here].
 
 <!--
 **vincentleooo/vincentleooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
