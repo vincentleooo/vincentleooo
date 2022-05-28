@@ -9,7 +9,7 @@ I am an undergraduate studying in the Singapore University of Technology and Des
 *   🌍  I'm based in Singapore.
 *   🖥️  See my portfolio at [my personal website](http://vinleonardo.com)
 *   ✉️  You can contact me at [vincent@vinleonardo.com](mailto:vincent@vinleonardo.com)
-*   🚀  I'm currently working on [a tutorial for the intuition and customisation of optimisers in deep learning](http://github.vinleonardo.com/sml-project-2022/)
+*   🚀  I'm currently working on [What Is Up Indonesia's website](http://github.com/what-is-up-indonesia/wiui-website) and my [university final year project](https://github.com/S21-Gait-Recognition)
 *   🧠  I'm learning Tensorflow, PyTorch, Next.js, Tailwind CSS, and whatever I will need to finish my current and future projects!
 *   🤝  I'm open to collaborating on anything interesting relating to deep learning, on teaching what is necessary but seldom taught in school relating to computer science and programming (e.g. file systems, debugging installations and code, UNIX shells, etc.), or even a discrete-event simulation software that can improve on or replace JaamSim
 
