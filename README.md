@@ -59,3 +59,5 @@ I am an undergraduate studying in the Singapore University of Technology and Des
                   
 <a
                       href="http://www.github.com/vincentleooo"><img src="https://activity-graph.herokuapp.com/graph?username=vincentleooo&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+![](https://komarev.com/ghpvc/?username=vincentleooo)
